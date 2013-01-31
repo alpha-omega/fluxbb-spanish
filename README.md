@@ -7,7 +7,7 @@ Clone the Git repository:
     git clone git://github.com/alpha-omega/fluxbb-spanish.git Spanish
 
 **Getting the tarball**  
-Download the [latest tag](https://github.com/alpha-omega/fluxbb-spanish/tags) (versioning follows FluxBB's releases). And ename the directory to "Spanish":
+Download the [latest tag](https://github.com/alpha-omega/fluxbb-spanish/tags) (versioning follows FluxBB's releases). And rename the directory to "Spanish":
 
     mv fluxbb-spanish Spanish
 
