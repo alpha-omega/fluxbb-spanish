@@ -1,0 +1,40 @@
+<?php
+
+// Language definitions used in admin_maintenance.php
+$lang_admin_maintenance = array(
+
+'Maintenance head'				=>	'Mantenimiento del foro',
+'Rebuild index subhead'			=>	'Reconstruir índice de búsqueda',
+'Rebuild index info'			=>	'Si has añadido, editado o eliminado mensajes manualmente en la base de datos, o si tienes problemas con las búsquedas, deberías reconstruir el índice de búsqueda. Para tener un mejor rendimiento, deberías poner el foro en %s durante el proceso. <strong>¡Reconstruir el índice de búsqueda puede tomar un largo tiempo, y aumentará la carga del servidos durante el proceso de reconstrucción!</strong>',
+'Posts per cycle label'			=>	'Mensajes por ciclo',
+'Posts per cycle help'			=>	'El número de mensajes que se procesarán en cada vista de página; es decir, si especificaras 300, trescientos mensajes serían procesados, y después la página se recargaría. Esto sirve para prevenir que el script experimente «time-out» durante el proceso de reconstrucción.',
+'Starting post label'			=>	'ID del mensaje inicial',
+'Starting post help'			=>	'El ID del mensaje desde donde se empezará a reconstruir. El valor por defecto es el primer ID disponible en la base de datos. Normalmente no querrías cambiar esto.',
+'Empty index label'				=>	'Índice vacío',
+'Empty index help'				=>	'Selecciona esto si deseas que el índice de búsqueda se vacíe antes de su reconstrucción (ver abajo).',
+'Rebuild completed info'		=>	'Una vez que haya terminado el proceso, serás redirigido de vuelta a esta página. Se recomienda ampliamente que tengas habilitado JavaScript en tu navegador durante la reconstrucción (para la redirección automática cuando el ciclo se haya completado). Si te ves forzado a abortar el proceso de reconstrucción, toma nota del ID del último mensaje procesado, e introduce dicho ID+1 en «ID del mensaje inicial» cuando/si quisieras continuar («Índice vacío» no debe estar seleccionado).',
+'Rebuild index'					=>	'Reconstruir índice',
+'Rebuilding search index'		=>	'Reconstruyendo índice de búsqueda',
+'Rebuilding index info'			=>	'Reconstruyendo índice. Este podría ser un buen momento para preparar café :-)',
+'Processing post'				=>	'Procesando mensaje <strong>%s</strong> …',
+'Click here'					=>	'Haz clic aquí',
+'Javascript redirect failed'	=>	'La redirección de JavaScript no fue exitosa. %s para continuar …',
+'Posts must be integer message'	=>	'Mensajes por ciclo debe ser un valor positivo entero.',
+'Days must be integer message'	=>	'Días para purgar debe ser un valor positivo entero.',
+'No old topics message'			=>	'No hay temas con una antigüedad de %s días. Por favor disminuye el valor de «Días de antigüedad», e inténtalo de nuevo.',
+'Posts pruned redirect'			=>	'Mensajes purgados. Redirigiendo…',
+'Prune head'					=>	'Purgar',
+'Prune subhead'					=>	'Purgar mensajes antiguos',
+'Days old label'				=>	'Días de antigüedad',
+'Days old help'					=>	'El número de días de antigüedad que un tema debe tener para ser purgado. Por ejemplo, si introdujeras 30, cada tema que no contenga un mensaje con una antigüedad menor a 30 días sería eliminado.',
+'Prune sticky label'			=>	'Purgar temas importantes',
+'Prune sticky help'				=>	'Cuando se habilita, los temas importantes también serán purgados.',
+'Prune from label'				=>	'Purgar del foro',
+'All forums'					=>	'Todos los foros',
+'Prune from help'				=>	'El foro en el cual deseas purgar mensajes.',
+'Prune info'					=>	'Utiliza esta función con precaución. <strong>Los temas purgados no se pueden recuperar jamás.</strong> Para tener un mejor rendimiento, deberías poner el foro en %s durante el proceso.',
+'Confirm prune subhead'			=>	'Confirmar la purga de mensajes',
+'Confirm prune info'			=>	'¿Estás seguro de querer purgar todos los temas con una antigüedad mayor a %s días en %s (%s temas)?',
+'Confirm prune warn'			=>	'¡ADVERTENCIA! Purgar mensajes los elimina permanentemente.',
+
+);
