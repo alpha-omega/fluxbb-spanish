@@ -72,7 +72,7 @@ $lang_admin_options = array(
 'UTC+12:00'         =>  '(UTC+12:00) Nueva Zelanda, Fiyi, Magadan',
 'UTC+12:45'         =>  '(UTC+12:45) Islas Chatham',
 'UTC+13:00'         =>  '(UTC+13:00) Tonga, Islas Phoenix, Kamchatka',
-'UTC+14:00'         =>  '(UTC+14:00) Islas de la línea'
+'UTC+14:00'         =>  '(UTC+14:00) Islas de la línea',
 
 // Timeout Section
 'Timeouts subhead'					=>	'Fecha y tiempos de espera',
