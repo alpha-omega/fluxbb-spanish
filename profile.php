@@ -68,7 +68,7 @@ $lang_profile = array(
 'Profile redirect'				=>	'Perfil actualizado. Redirigiendo…',
 
 // Profile display stuff
-'Users profile'					=>	'perfil de %s',
+'Users profile'					=>	'Perfil de %s',
 'Username info'					=>	'Nombre de usuario: %s',
 'Email info'					=>	'Correo electrónico: %s',
 'Posts info'					=>	'Mensajes: %s',
@@ -95,7 +95,7 @@ $lang_profile = array(
 'Avatar info'					=>	'Un avatar es una pequeña imagen que se mostrará bajo tu nombre de usuario en tus mensajes. Puedes cargar un avatar haciendo clic en el enlace siguiente.',
 'Change avatar'					=>	'Cambiar avatar',
 'Signature legend'				=>	'Redacta tu firma',
-'Signature info'				=>	'Una firma es un pequeño texto que se adjunta a tus mensajes. En ella, puedes introducir casi cualquier cosa que desees. Tal vez te gustaría añadir tu cita favorita, o tu signo zodiacal. ¡Depende de ti! En tu firma puedes utilizar BBCode, si está permitido en este foro en particular. Puees ver qué unciones están habilitadas/deshabilitadas listadas debajo, siempre que edites tu firma.',
+'Signature info'				=>	'Una firma es un pequeño texto que se adjunta a tus mensajes. En ella, puedes introducir casi cualquier cosa que desees. Tal vez te gustaría añadir tu cita favorita, o tu signo zodiacal. ¡Depende de ti! En tu firma puedes utilizar BBCode, si está permitido en este foro en particular. Puedes ver las funciones que están habilitadas/deshabilitadas listadas debajo, siempre que edites tu firma.',
 'Sig preview'					=>	'Vista previa de la firma:',
 'No sig'						=>	'No hay ninguna firma actualmente almacenada en tu perfil.',
 'Signature quote/code/list/h'	=>	'Los siguientes BBCodes no están permitidos en las firmas: quote, code, list y heading.',
@@ -105,7 +105,7 @@ $lang_profile = array(
 'Subscription legend'			=>	'Establece tus opciones de suscripción',
 'Notify full'					=>	'Incluye una versión en texto simple de los nuevos mensajes en los correos electrónicos de notificación de suscripción.',
 'Auto notify full'				=>	'Suscribirse automáticamente a cada tema en el cual publiques.',
-'Show smilies'					=>	'Mostrar emoticones como íconos gráficos.',
+'Show smilies'					=>	'Mostrar emoticonos como íconos gráficos.',
 'Show images'					=>	'Mostrar imágenes en los mensajes.',
 'Show images sigs'				=>	'Mostrar imágenes en las firmas de usuarios.',
 'Show avatars'					=>	'Mostrar avatares de usuarios en los mensajes.',
@@ -134,8 +134,8 @@ $lang_profile = array(
 'Delete posts'					=>	'Eliminar cualquier mensaje y temas que haya realizado este usuario.',
 'Delete'						=>	'Eliminar', // submit button (confirm user delete)
 'User delete redirect'			=>	'Usuario eliminado. Redirigiendo…',
-'Group membership redirect'		=>	'Membresía del grupo guardada. Redirigiendo …',
-'Update forums redirect'		=>	'Permisos de moderador del foro actualizados. Redirigiendo……',
+'Group membership redirect'		=>	'Membresía del grupo guardada. Redirigiendo…',
+'Update forums redirect'		=>	'Permisos de moderador del foro actualizados. Redirigiendo…',
 'Ban redirect'					=>	'Redirigiendo…',
 'No delete admin message'		=>	'Los administradores no pueden ser eliminados. Para poder eliminar a este usuario, primero debes moverlo/a a un grupo de usuarios distinto.',
 
