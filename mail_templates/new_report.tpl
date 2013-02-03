@@ -1,6 +1,6 @@
-Asunto: Reporte(<forum_id>) – '<topic_subject>'
+Asunto: Reporte(<forum_id>) – «<topic_subject>»
 
-El usuario '<username>' ha reportado el siguiente mensaje: <post_url>
+El usuario <username> ha reportado el siguiente mensaje: <post_url>
 
 Razón: <reason>
 
