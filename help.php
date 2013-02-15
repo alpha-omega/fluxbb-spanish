@@ -18,7 +18,7 @@ $lang_help = array(
 'Strike-through text'	=>	'Texto tachado',
 'Red text'				=>	'Texto rojo',
 'Blue text'				=>	'Texto azul',
-'Heading text'			=>	'Texto de Encabezado',
+'Heading text'			=>	'Texto de encabezado',
 'Deleted text'			=>	'Texto eliminado',
 'Inserted text'			=>	'Texto insertado',
 'Emphasised text'		=>	'Texto enfatizado',
@@ -27,7 +27,7 @@ $lang_help = array(
 'Links info'			=>	'Puedes crear enlaces a otros documentos o direcciones de correo electrónico utilizando las siguientes etiquetas:',
 'This help page'		=>	'Esta página de ayuda',
 'My email address'		=>	'Mi dirección de correo electrónico',
-'Images info'			=>	'Si quieres que se muestre una imagen, puedes utilizar la etiqueta img. El texto que aparece después del signo = en la etiqueta de apertura es usado para el atributo alt, y debería incluirse siempre que sea posible.',
+'Images info'			=>	'Si quieres que se muestre una imagen, puedes utilizar la etiqueta img. El texto que aparece después del signo \'=\' en la etiqueta de apertura es usado para el atributo alt, y debería incluirse siempre que sea posible.',
 'FluxBB bbcode test'	=>	'Prueba de bbcode FluxBB',
 
 'Test topic'			=>	'Tema de prueba',
@@ -58,9 +58,9 @@ $lang_help = array(
 'List text 3'			=>	'Artículo de lista 3.',
 'produces list'			=>	'produce una lista con balas.',
 'produces decimal list'	=>	'produce una lista numerada.',
-'produces alpha list'	=>	'produces una lista ordenada alfabéticamente.',
+'produces alpha list'	=>	'produce una lista ordenada alfabéticamente.',
 
 'Smilies'				=>	'Emoticonos',
 'Smilies info'			=>	'Si lo deseas (y si está habilitado), el foro puede convertir una serie de emoticonos a sus representaciones correspondientes en imágenes. Este foro reconoce los siguientes emoticonos, y los reemplaza por imágenes:'
 
-);|
+);
